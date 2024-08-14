@@ -1,0 +1,8 @@
+getUserByEmail
+getUserByUsernameAndPassword
+getPostByTitle
+getPostByDate
+findCommentByUserId
+GetCommentsByKeyword
+GetCommentsByPostId
+findPostByCategoryId
